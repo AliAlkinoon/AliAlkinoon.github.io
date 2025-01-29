@@ -21,7 +21,7 @@ repository               : "AliAlkinoon/AliAlkinoon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Ali.jpg"
   name             : "Phd Candidate, CS"
   # pronouns         : # example: "she/her"  
   bio              : "Graduate Teaching Assistant| Phd Candidate, CS"
